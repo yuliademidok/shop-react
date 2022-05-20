@@ -1,4 +1,4 @@
-import DirectoryItem from '../directory-item/category-item.component'
+import DirectoryItem from '../directory-item/directory-item.component'
 
 import './directory.styles.scss'
 
